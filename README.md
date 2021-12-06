@@ -11,7 +11,7 @@ Data will be scraped from the Amazon website from the jewelry section of the Swa
 
  ###  featuers
 1.	brand: type of brand GUSEE or Swarovski
-2.	j_type: description of jewelry
+2.	j_type: description of jewelry.
 3.  rating: number of rating
 4.  review_num: number of reviews
 5.  price: price of jewelry
